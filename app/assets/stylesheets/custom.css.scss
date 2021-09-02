@@ -22,8 +22,9 @@
     color: black;
 }
 
-a{
-    text-decoration: none;
-    list-style-type: none;
-    color: #fff;
+
+
+#page-content{
+    flex: 1 0 auto;
+    background-color: lightgrey;
 }
