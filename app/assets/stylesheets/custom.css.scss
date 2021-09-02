@@ -1,0 +1,29 @@
+// Custom bootstrap variables must be set or imported *before* bootstrap.
+@import "bootstrap";
+
+.home-container{
+    margin-top: 85px;
+}
+
+.jumbotron {
+    background-image: asset-url('jumbo-copy.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    width: auto;
+}
+
+.jumbotron-text{
+    color: black;
+}
+
+.text-dark{
+    color: black;
+}
+
+a{
+    text-decoration: none;
+    list-style-type: none;
+    color: #fff;
+}
