@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Did many modification before this commmit : 
 
-Things you may want to cover:
+1. Added Log in form
 
-* Ruby version
+2. Add functionality to create and destroy session whenever the user logs in or logs out respectively
 
-* System dependencies
+3. Learned about authentication helper methods
 
-* Configuration
+4. Implemented Controller methods as helper methods
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+5. Restricted actions on UI
